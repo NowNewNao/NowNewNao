@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 
 ![Nao's GitHub stats](https://github-readme-stats.vercel.app/api?username=NowNewNao&count_private=true&show_icons=true)
-![Nao's GitHub stats](https://github-readme-stats.vercel.app/api?username=NowNewNao&hide=contribs,prs)
