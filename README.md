@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on ... TypeScript/ React/ Redux
 - 🌱 I’m currently learning ... TypeScript/ React/ Redux
 - 👯 I’m looking to collaborate on ... Building small web applications!
-- 📫 How to reach me: ... ![Twitter](https://twitter.com/NowNewNao)!
+- 📫 How to reach me: ... [Twitter](https://twitter.com/NowNewNao)!
 - 🧖‍♀️ Fun fact: ... Sauna Lover!
 
 
