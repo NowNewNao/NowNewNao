@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 ![Nao's GitHub stats](https://github-readme-stats.vercel.app/api?username=NowNewNao&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NowNewNao&layout=compact)](https://github.com/NowNewNao/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NowNewNao&layout=compact&count_private=true)](https://github.com/NowNewNao/github-readme-stats)
